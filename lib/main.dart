@@ -121,7 +121,7 @@ class _MyHomePageState extends State<MyHomePage> {
       final alert = AlertDialog(
         title: const Text("Enable camera and microphone"),
         content: const Text(
-          'Bindr requires camera and microphone permission to start a session,'
+          'App requires camera and microphone permission to start a session,'
           ' Please allow permission from app settings.',
         ),
         actions: [
